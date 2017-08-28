@@ -10,7 +10,7 @@ Firebase is a cloud service for database, authentication, etc
 <li>Select option => Add firebase to your web app</li>
 <li>Copy and paste the snippet at the bottom of your HTML, before other script tags.</li>
 <hr>
-Firebase Authentication: <br/>
+<b>Firebase Authentication: </b><br/>
 For submitting the form, no authentication is required. Anyone can submit this form.
 <br/>
 To meet the above condition, 
