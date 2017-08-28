@@ -10,4 +10,7 @@ To meet the above condition,
 <li>Go to database</li>
 <li> Go to Rules tab, and change the value of .write to true </li>
 
+<img src ="https://github.com/patilankita79/ConnectingFirebaseToContactForm/blob/master/Screenshots/AuthenticationSetting.png" />
+<hr>
+
 
